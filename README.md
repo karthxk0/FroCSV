@@ -1,4 +1,4 @@
-# FroCSV v5.0
+# FroCSV v1.6
 
 A multipurpose python tool to make handling, manipulating, and cleaning massive CSV files simple and time-saving.
 

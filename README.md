@@ -155,5 +155,4 @@ Your_Output_Folder/
 
 ---
 
-**Author:** Built by karthxk ([https://karthxk0.github.io/](https://www.google.com/search?q=https://karthxk0.github.io/))
-*Disclaimer: AI was utilized to assist in the debugging, restructuring, and refinement of the code and this documentation.*
+*Note: LLMs were used to assist with debugging, code refinement, and documentation. All generated suggestions were reviewed and adapted as needed.*
